@@ -1,2 +1,2 @@
-# VRChat-Mobile-Unofficial
+# Actual VRC Mobile
 # Creation by me and my friend salt431.
