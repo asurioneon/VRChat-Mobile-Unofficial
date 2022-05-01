@@ -1,2 +1,3 @@
 # Actual VRC Mobile
 # Creation by me and my friend salt431.
+# IMPORTANT NOTICE: REQUIRES CONTROLLER UNTIL WE RELEASE TOUCH CONTROL
